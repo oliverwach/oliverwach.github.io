@@ -1,8 +1,6 @@
-about.md
-
 ---
 permalink: /
-title: "Oliver B. Wach"
+title: "O W - Postdoctoral Researcher"
 author_profile: true
 redirect_from:
   - /about/
@@ -13,6 +11,7 @@ I am a postdoctoral researcher at the University of Mannheim. I am an applied ec
 
 I hold a PhD in Economics from Freie Universität Berlin and am a fellow of the Joachim Herz Foundation.
 
+---
 <div style="display: flex; gap: 30px; margin: 20px 0;">
   <!-- Interests Column -->
   <div style="flex: 1;">
@@ -50,6 +49,7 @@ I hold a PhD in Economics from Freie Universität Berlin and am a fellow of the 
   </div>
 </div>
 
+---
 ### **References**
 <div style="margin: 20px 0;">
   <ul style="list-style: none; padding-left: 0;">
@@ -80,5 +80,6 @@ I hold a PhD in Economics from Freie Universität Berlin and am a fellow of the 
   </ul>
 </div>
 
+---
 ### **CV**
 📥 [Download my CV](/assets/files/cv.pdf)
