@@ -12,41 +12,44 @@ I am a postdoctoral researcher at the University of Mannheim. I am an applied ec
 I hold a PhD in Economics from Freie Universität Berlin and am a fellow of the Joachim Herz Foundation.
 
 ---
-<div style="flex: 1;">
-  <h3 style="border-bottom: 1px solid #eee; padding-bottom: 5px;">Interests</h3>
-  <ul style="list-style: disc; padding-left: 20px;">
-    <li style="margin-bottom: 8px;">Political Economics</li>
-    <li style="margin-bottom: 8px;">Economic History</li>
-    <li style="margin-bottom: 8px;">Development Economics</li>
-  </ul>
-</div>
+<div style="display: flex; gap: 30px; margin: 20px 0;">
+  <!-- Interests Column -->
+  <div style="flex: 1;">
+    <h3 style="border-bottom: 1px solid #eee; padding-bottom: 5px;">Interests</h3>
+    <ul style="list-style: disc; padding-left: 20px;">
+      <li style="margin-bottom: 8px;">Political Economics</li>
+      <li style="margin-bottom: 8px;">Economic History</li>
+      <li style="margin-bottom: 8px;">Development Economics</li>
+    </ul>
+  </div>
 
-<!-- Education Column -->
-<div style="flex: 1;">
-  <h3 style="border-bottom: 1px solid #eee; padding-bottom: 5px;">Education</h3>
-  <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 8px; display: flex; align-items: flex-start;">
-      <span style="margin-right: 10px;">🎓</span>
-      <div>
-        <div><strong>PhD Economics</strong> (2026)</div>
-        <div style="font-size: 0.9em; margin-top: 2px;">Freie Universität Berlin</div>
-      </div>
-    </li>
-    <li style="margin-bottom: 8px; display: flex; align-items: flex-start;">
-      <span style="margin-right: 10px;">🎓</span>
-      <div>
-        <div><strong>MSc Economics</strong> (2020)</div>
-        <div style="font-size: 0.9em; margin-top: 2px;">Humboldt Universität zu Berlin</div>
-      </div>
-    </li>
-    <li style="margin-bottom: 8px; display: flex; align-items: flex-start;">
-      <span style="margin-right: 10px;">🎓</span>
-      <div>
-        <div><strong>BSc Economics</strong> (2017)</div>
-        <div style="font-size: 0.9em; margin-top: 2px;">Ludwig-Maximilians-Universität München</div>
-      </div>
-    </li>
-  </ul>
+  <!-- Education Column -->
+  <div style="flex: 1;">
+    <h3 style="border-bottom: 1px solid #eee; padding-bottom: 5px;">Education</h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li style="margin-bottom: 8px; display: flex; align-items: flex-start;">
+        <span style="margin-right: 10px;">🎓</span>
+        <div>
+          <div><strong>PhD Economics</strong> (2026)</div>
+          <div style="font-size: 0.9em; margin-top: 2px;">Freie Universität Berlin</div>
+        </div>
+      </li>
+      <li style="margin-bottom: 8px; display: flex; align-items: flex-start;">
+        <span style="margin-right: 10px;">🎓</span>
+        <div>
+          <div><strong>MSc Economics</strong> (2020)</div>
+          <div style="font-size: 0.9em; margin-top: 2px;">Humboldt Universität zu Berlin</div>
+        </div>
+      </li>
+      <li style="margin-bottom: 8px; display: flex; align-items: flex-start;">
+        <span style="margin-right: 10px;">🎓</span>
+        <div>
+          <div><strong>BSc Economics</strong> (2017)</div>
+          <div style="font-size: 0.9em; margin-top: 2px;">Ludwig-Maximilians-Universität München</div>
+        </div>
+      </li>
+    </ul>
+  </div>
 </div>
 
 ---
