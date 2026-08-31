@@ -30,7 +30,7 @@ main:
   #   url: /cv-json/
     
   #- title: "Guide"
-  #  url: /markdown/
+  #  url: /markdown/ 
 
     - title: "Contact"
     url: /contact/
