@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "O W - Postdoctoral Researcher"
+title: "Oliver B. Wach - Postdoctoral Researcher"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Mannheim. I am an applied economist working at the intersection of economic history, development economics, and political economy.
+I am a postdoctoral researcher at the University of Mannheim, specializing in applied economics at the intersection of economic history, development economics, and political economy. My research explores the social and political impact of institutions, their origins, technological transformations, and conflict.
 
 I hold a PhD in Economics from Freie Universität Berlin and am a fellow of the Joachim Herz Foundation.
 
@@ -17,7 +17,7 @@ I hold a PhD in Economics from Freie Universität Berlin and am a fellow of the 
   <div style="flex: 1;">
     <h3 style="border-bottom: 1px solid #eee; padding-bottom: 5px;">Interests</h3>
     <ul style="list-style: disc; padding-left: 20px;">
-      <li style="margin-bottom: 8px;">Political Economics</li>
+      <li style="margin-bottom: 8px;">Political Economy</li>
       <li style="margin-bottom: 8px;">Economic History</li>
       <li style="margin-bottom: 8px;">Development Economics</li>
     </ul>
@@ -82,7 +82,3 @@ I hold a PhD in Economics from Freie Universität Berlin and am a fellow of the 
     </li>
   </ul>
 </div>
-
----
-### **CV**
-📥 [Download my CV](/assets/files/cv.pdf)
