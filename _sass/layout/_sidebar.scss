@@ -142,8 +142,10 @@
 
 .author__avatar {
   display: table-cell;
-  vertical-align: middle;  // Vertically center the avatar
-  width: 72px;
+  vertical-align: top;
+  width: 36px;
+  // set width only, for non-square avatars
+  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -154,8 +156,6 @@
   img {
     max-width: 175px;
     border-radius: 50%;
-    display: block;  // Center the image horizontally
-    margin: 0 auto;  // Center the image
 
     @include breakpoint($large) {
       padding: 5px;
@@ -166,18 +166,16 @@
 
 .author__content {
   display: table-cell;
-  vertical-align: middle;  // Vertically center the content
-  padding-left: 0;          // Remove left padding
-  padding-right: 0;         // Remove right padding
+  vertical-align: top;
+  padding-left: 15px;
+  padding-right: 25px;
   line-height: 1;
-  text-align: center;      // Horizontally center the text
 
   @include breakpoint($large) {
     display: block;
     width: 100%;
     padding-left: 0;
     padding-right: 0;
-    text-align: center;
   }
 }
 
