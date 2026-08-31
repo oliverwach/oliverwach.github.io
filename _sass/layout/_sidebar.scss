@@ -143,16 +143,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 64px;
-
-  // ===== NEW: Mobile-specific avatar size =====
-  @media screen and (max-width: 767px) {
-    width: 120px; // Adjust this value (e.g., 100px, 120px) to your preference
-    img {
-      max-width: 100px !important; // Match the width above
-    }
-  }
-  // ============================================
+  width: 100px;
+  // set width only, for non-square avatars
+  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
