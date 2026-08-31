@@ -143,11 +143,11 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 32px;
+  width: 64px;
 
   // ===== NEW: Mobile-specific avatar size =====
   @media screen and (max-width: 767px) {
-    width: 100px; // Adjust this value (e.g., 100px, 120px) to your preference
+    width: 120px; // Adjust this value (e.g., 100px, 120px) to your preference
     img {
       max-width: 100px !important; // Match the width above
     }
