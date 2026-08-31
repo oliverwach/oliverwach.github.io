@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Oliver B. Wach - Postdoctoral Researcher"
+title: "Hello and welcome!"
 author_profile: true
 redirect_from:
   - /about/
@@ -11,7 +11,6 @@ I am a postdoctoral researcher at the University of Mannheim, specializing in ap
 
 I hold a PhD in Economics from Freie Universität Berlin and am a fellow of the Joachim Herz Foundation.
 
----
 <div style="display: flex; gap: 30px; margin: 20px 0;">
   <!-- Interests Column -->
   <div style="flex: 1;">
@@ -60,19 +59,19 @@ I hold a PhD in Economics from Freie Universität Berlin and am a fellow of the 
       <a href="https://sites.google.com/view/tgrigoriadis/home" target="_blank" style="color: #0066cc; text-decoration: none;">
         <strong>Theocharis Grigoriadis</strong>
       </a>
-      <span style="color: #666;"> — FU Berlin</span>
+      <span style="color: #666;"> — Freie Universität Berlin</span>
     </li>
     <li style="margin-bottom: 8px;">
       <a href="https://sites.google.com/site/nikolauswolf01" target="_blank" style="color: #0066cc; text-decoration: none;">
         <strong>Nikolaus Wolf</strong>
       </a>
-      <span style="color: #666;"> — HU Berlin</span>
+      <span style="color: #666;"> — Humboldt Universität zu Berlin</span>
     </li>
     <li style="margin-bottom: 8px;">
       <a href="https://www.sobecker.de/" target="_blank" style="color: #0066cc; text-decoration: none;">
         <strong>Sascha Becker</strong>
       </a>
-      <span style="color: #666;"> — Warwick</span>
+      <span style="color: #666;"> — Warwick University</span>
     </li>
     <li style="margin-bottom: 8px;">
       <a href="https://sites.google.com/view/cathrinmohr/home" target="_blank" style="color: #0066cc; text-decoration: none;">
