@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)]({{ site.url }}/files/cv_wach.pdf){: .btn .btn--primary}
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
