@@ -1,15 +1,20 @@
 ---
 permalink: /
-title: "Hello and welcome!"
+title: 
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+<div style="text-align: justify;">
 
-I am a postdoctoral researcher at the University of Mannheim, specializing in applied economics at the intersection of economic history, development economics, and political economy. My research explores the social and political impact of institutions, their origins, technological transformations, and conflict.
+Hello and welcome!<br><br>
+
+I am a postdoctoral researcher at the University of Mannheim. I am an applied economist, working at the intersection of economic history, development economics, and political economy. My research explores the social and political impact of institutions, their origins, technological transformations, and conflict.<br><br>
 
 I hold a PhD in Economics from Freie Universität Berlin and am a fellow of the Joachim Herz Foundation.
+
+</div>
 
 <div style="display: flex; gap: 30px; margin: 20px 0;">
   <!-- Interests Column -->
