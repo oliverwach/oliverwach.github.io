@@ -5,6 +5,7 @@ FROM ruby:3.2
 RUN apt-get update && apt-get install -y \
     build-essential \
     nodejs \
+    npm \
     && rm -rf /var/lib/apt/lists/*
 
 
@@ -21,15 +22,20 @@ RUN chown -R vscode:vscode /usr/src/app
 # Switch to the non-root user
 USER vscode
 
-# Copy Gemfile into the container (necessary for `bundle install`)
-COPY Gemfile ./
+# Copy Gemfile and Gemfile.lock into the container
+COPY Gemfile Gemfile.lock ./
 
+# Copy package.json and package-lock.json for Node dependencies
+COPY package.json package-lock.json ./
 
-
-# Install bundler and dependencies
-RUN gem install connection_pool:2.5.0
-RUN gem install bundler:2.3.26
+# Install Ruby dependencies using bundler (don't install bundler explicitly - use Ruby 3.2 built-in)
 RUN bundle install
+
+# Install Node dependencies
+RUN npm install
+
+# Build minified JavaScript
+RUN npm run build:js
 
 # Command to serve the Jekyll site
 CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w", "--config", "_config.yml,_config_docker.yml"]
