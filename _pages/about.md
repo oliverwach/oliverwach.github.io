@@ -23,9 +23,9 @@ redirect_from:
 <div style="text-align: justify;">
 Hello and welcome!<br><br>
 
-I am a postdoctoral researcher at the University of Mannheim. I am an applied economist, working at the intersection of economic history, development economics, and political economy. My research explores the social and political impact of institutions, their origins, technological transformations, and conflict.<br><br>
+I am a Postdoctoral Researcher in Economics at the <a href="https://www.vwl.uni-mannheim.de/wach/">University of Mannheim</a>. I am also a member of the <a href="https://www.crctr224.de/people/members-alphabetical-order/oliver-wach">Collaborative Research Center Transregio 224 “Economic Perspectives on Societal Challenges: Equality of Opportunity, Market Regulation, and Financial Stability”</a> and a fellow of the <a href="https://www.joachim-herz-stiftung.de/forschen-gruenden/add-on-fellowship-wirtschaft">Joachim Herz Foundation</a>. I am an applied economist, working at the intersection of economic history, development economics, and political economy. My research explores the social and political impact of institutions, their origins, technological transformations, and conflict.<br><br>
 
-I hold a PhD in Economics from Freie Universität Berlin and am a fellow of the Joachim Herz Foundation.
+I hold a PhD in Economics from Freie Universität Berlin.
 </div>
 
 <!-- Add the class "mobile-stack" to your flex container -->
